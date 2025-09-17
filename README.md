@@ -7,3 +7,6 @@ I recently came across an insightful article titled "10 Things Software Develope
 
 # Ava's comment
 This article is a great reminder that learning itself is a skill. I liked how it connected cognitive psychology to software development. It’s practical advice that can really help developers keep improving long-term.
+
+# Namay Jindal's comment
+Really appreciate you highlighting this article! As someone who's grown up around educators (my parents are both in education), I found the connection between cognitive psychology and programming fascinating. The point about working memory limitations especially resonated - it explains why I sometimes feel overwhelmed when trying to learn multiple new frameworks at once. The spacing effect insight is also eye-opening - makes me want to restructure how I approach learning new technologies instead of doing those intensive weekend deep-dives. Thanks for sharing this perspective on learning as a skill itself!
